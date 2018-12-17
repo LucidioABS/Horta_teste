@@ -20,6 +20,7 @@
 		5ECBAD8F21C7DC4600351663 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECBAD8E21C7DC4600351663 /* ExtensionDelegate.swift */; };
 		5ECBAD9121C7DC4600351663 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECBAD9021C7DC4600351663 /* NotificationController.swift */; };
 		5ECBAD9321C7DC4700351663 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ECBAD9221C7DC4700351663 /* Assets.xcassets */; };
+		5ECBADA421C7E1FD00351663 /* StatusInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ECBADA321C7E1FD00351663 /* StatusInterfaceController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		5ECBAD9221C7DC4700351663 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5ECBAD9421C7DC4700351663 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5ECBAD9521C7DC4700351663 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		5ECBADA321C7E1FD00351663 /* StatusInterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusInterfaceController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 			isa = PBXGroup;
 			children = (
 				5ECBAD8C21C7DC4600351663 /* InterfaceController.swift */,
+				5ECBADA321C7E1FD00351663 /* StatusInterfaceController.swift */,
 				5ECBAD8E21C7DC4600351663 /* ExtensionDelegate.swift */,
 				5ECBAD9021C7DC4600351663 /* NotificationController.swift */,
 				5ECBAD9221C7DC4700351663 /* Assets.xcassets */,
@@ -303,6 +306,7 @@
 				5ECBAD9121C7DC4600351663 /* NotificationController.swift in Sources */,
 				5ECBAD8F21C7DC4600351663 /* ExtensionDelegate.swift in Sources */,
 				5ECBAD8D21C7DC4600351663 /* InterfaceController.swift in Sources */,
+				5ECBADA421C7E1FD00351663 /* StatusInterfaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
